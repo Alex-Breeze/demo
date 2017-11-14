@@ -1,0 +1,12 @@
+{
+    "name": "alex/demo",
+    "require": {
+        "houdunwang/hdphp": "^3.0"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
